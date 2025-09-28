@@ -111,12 +111,6 @@ Developed as part of the **Embedded Challenge – Fall 2024 Term Project**, focu
 
 ## 👥 Contributors
 - **Naveen Kumar Senthil Kumar** – [ns6503@nyu.edu](mailto:ns6503@nyu.edu)  
-- *Team Members if applicable*
 
 ---
 
-## 📜 License
-This project is released for academic and educational use.  
-For commercial use or redistribution, please contact the contributors.
-
----
